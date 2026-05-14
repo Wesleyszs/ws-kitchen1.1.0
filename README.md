@@ -23,6 +23,8 @@ Sistema de pedidos online para restaurantes com painel administrativo em tempo r
 - PHP
 - MySQL
 - XAMPP
+- Claude code
+- Chatgpt
 
 
 
